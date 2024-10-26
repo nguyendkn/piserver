@@ -1,0 +1,20 @@
+{
+  "name": "piserver",
+  "version": "1.0.0",
+  "description": "PiServer framework for application",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "inversify": "^6.0.3",
+    "reflect-metadata": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.12",
+    "typescript": "^5.5.3"
+  },
+  "private": true,
+  "engines": {
+    "bun": ">=0.2.0"
+  }
+}
